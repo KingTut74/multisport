@@ -1,0 +1,25 @@
+/* 
+color palette
+#fa0530 - red unhealthy
+#872560 - purple very unhealthy
+#a92237 - maroon hazardous
+#f9c837 - yellow moderate
+#53a757 - green good
+#fc6808 - orange unhealthy
+*/
+
+.container {
+    max-width: 100%;
+    height:auto;
+}
+.status {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.ring {
+    text-align: center;
+}
